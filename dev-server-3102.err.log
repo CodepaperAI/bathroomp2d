@@ -1,8 +1,0 @@
-⨯ Another next dev server is already running.
-
-- Local:        http://localhost:3002
-- PID:          2720
-- Dir:          C:\Work\p2d\bathroom-vanity-refinishing-landing
-- Log:          .next\dev\logs\next-development.log
-
-Run taskkill /PID 2720 /F to stop it.
